@@ -14,8 +14,15 @@ highlight: tango
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## What's Wrong With What We're Doing?  
-![](ClearcutForest.jpg)   
+## What's Wrong With What We're Doing?    
+
+![Clear Cut Forest](ClearcutForest.jpg)    
+
+![Flooding Damage](crop_destroy_1.webp)    
+
+![Storm Damage](agr_2.jpg)    
+
+
 
 
 * Globally, 70% of water usage goes towards agricultural production, largely due to unsustainable irrigation practices. At present, 38% of earth’s non-frozen land is used for growing food.  
@@ -77,5 +84,15 @@ knitr::opts_chunk$set(echo = TRUE)
 * Agriculture is responsible for 60-80% of deforestation. Habitat loss is the leading driver of biodiversity loss. It is in our best interest to bring deforestation to an end.  
 
 
+### Organic Issues  
 
+![](organic_stat.png)  
+
+* Organic purported to be a serious solution to current sustainability and climate issues  
+
+* 2019 Study from England/Wales models 40% decrease in total food production from switching to Organic from Conventional  
+
+* Replacement foods to meet population demand would come from overseas locations - carbon footprint larger overall  
+
+* Land area needed to make up shortfalls in domestic production would be nearly 5 times current land area usage for England and Wales  
 

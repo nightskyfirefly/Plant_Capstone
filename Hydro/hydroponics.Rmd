@@ -83,6 +83,15 @@ We are faced with a rising human population and climate change. Drought, floods,
 
 * Vertical, controlled environment agriculture & hydroponics is being utilized by NASA and explored extensively. Plenty, a CEA facility utilizing NASA's closed-loop environment which employs robotics and AI, requires 1% of the water of traditional farming. The two-acre farm produces similar yields to a 720-acre outdoor farm.   
 
+#### Indoor Facility Benefits  
+
+* Indoor facilities are shielded from all but the most severe environmental factors  
+
+* Controlled environment; automation ready (nutrient dispersal/monitoring)  
+
+* Year-round production  
+
+* Able to take great advantage of ‘green’ energy technologies, such as wind and solar  
 
 
 
@@ -93,3 +102,5 @@ We are faced with a rising human population and climate change. Drought, floods,
 * Sustainably grown in Waitsfield, VT
 * Farm is solar powered  
 * Provides year round farming jobs  
+* Doubled growth in 2018; $1.5 million produce per/year  
+

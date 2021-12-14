@@ -1,0 +1,41 @@
+---
+title: "Pitch"
+author: "Mia Murphy & Daniel Forcade"
+date: "12/12/2021"
+output:   
+  rmdformats::readthedown:
+  self_contained: true
+thumbnails: true
+lightbox: true
+gallery: false
+highlight: tango
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+
+Policy pitch:  
+
+
+* Extreme weather events are happening at an increased rate. Farmers cannot afford the cost of crop failures or the long term economic impacts of floods filled with toxic chemicals. Tax payers, who front the cost of agricultural subsidies, also cannot afford the cost of crop failures. As more tax funding is required to support our current failing system of plant production, tax payers are deprived of social luxuries such as affordable healthcare and education.  
+
+* We cannot continue to direct funding into our current plant production unless it begins to utilize methods of mitigating crop failure risks in the face of climate change.  
+
+* The combination of hydroponics and indoor vertical farming reduces the risk of crop failure. It increases our food security and reduces the burden on tax payers.  
+
+* By switching to these modern, technologically advanced methods of plant production, plants can sustainably feed the world. We relieve pressure on forests and reduce habitat destruction. We give the soil a chance to recover from the toll of traditional agriculture.  
+
+
+
+*  Begin funding, grants, and educational campaign to promote research and development into these technologies
+
+*  Become proactive, rather than reactive. Reactive strategies (Remediation) is incredibly expensive, isn’t applicable to wide-scale application
+
+* More research and development leads to increased efficiency for a necessary technology, drives further economic interest in area  
+
+* Safeguards local economic outputs from currently guaranteed disruption  
+

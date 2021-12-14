@@ -12,50 +12,23 @@ highlight: tango
 ---
 
 
-## 1.  
+#### 1.   
+Edwards, D. (2020). Investment in agricultural automation increases as farmers look to offset labor shortages. Robotics and automation news. https://roboticsandautomationnews.com/2020/08/31/investment-in-agricultural-automation-increases-as-farmers-look-to-offset-labor-shortages/35749/
 
 
-## 2.  
+#### 2.  
+Charles, D. (2019). Farmers Got Billions From Taxpayers In 2019, And Hardly Anyone Objected. NPR.org. https://www.npr.org/sections/thesalt/2019/12/31/790261705/farmers-got-billions-from-taxpayers-in-2019-and-hardly-anyone-objected
 
+#### 3.  
+Ritchie, H. (2019). Half of the world’s habitable land is used for agriculture. Our World in Data. https://ourworldindata.org/global-land-for-agriculture
 
-## 3.  
+#### 4.  
+Smith, L. G., Kirk, G. J., Jones, P. J., & Williams, A. G. (2019). The greenhouse gas impacts of converting food production in England and Wales to organic methods. Nature Communications, 10(1), 1-10.
 
+#### 5.  
+Travel and gas restrictions now in place as flood cleanup underway in B.C. (2021). CBC. https://www.cbc.ca/news/canada/british-columbia/wyntk-bc-floods-nov-20-1.6256765
 
-## 4.  
-
-
-## 5.  
-
-
-## 6.  
-
-
-## 7.  
-
-
-## 8.  
-
-
-## 9.  
-
-
-## 10.  
-
-
-## 11.  
-
-
-## 12.  
-
-
-## 13.  
-
-
-## 14.  
-
-
-## 15.  
-
-
+#### 6.  
+Watson, C., Sheehy, F., & Guest, P. (2021). How bad is the British Columbia and Pacific north-west flooding and what caused it? The Guardian. https://www.theguardian.com/environment/2021/nov/17/pacific-north-west-flooding-british-columbia-washington-state-canada
 
 
