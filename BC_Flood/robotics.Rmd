@@ -1,0 +1,33 @@
+---
+title: "Robotics/AI"
+author: "Mia Murphy & Daniel Forcade"
+date: "12/13/2021"
+output:   
+  rmdformats::readthedown:
+  self_contained: true
+thumbnails: true
+lightbox: true
+gallery: false
+highlight: tango
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Outdoor Robotics
+
+
+FarmWise Autonomous Weeding Robot  
+
+* Implements AI and Robotic natural synergy
+* Helps reduce reliance on chemical weedkillers/inputs
+* Preserves integrity of soil  
+* Reduces manual labor required to operate farm  
+* Weeding is a very strenuous labor job, pressures health care/economic systems  
+
+![Farmwise Titan FT35](farmwise_robot.jpg)  
+
+![](farmwise.gif)  
+
+
