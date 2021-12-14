@@ -23,12 +23,19 @@ knitr::opts_chunk$set(echo = TRUE)
 Extreme weather events are happening at an increased rate. Farmers cannot afford the cost of crop failures or the long term economic impacts of floods filled with toxic chemicals. Tax payers, who front the cost of agricultural subsidies, also cannot afford the cost of crop failures.  
 
 ## Education  
+![Cornell Hydroponic Research](lab_1.png)  
+![](lab_2.png)  
+  
+  
 
 * We must fund and direct educational campaigns that work in favor of integrating new technologies into conventional farming practices, and start laying the groundwork for a transition of the labor force.  Prioritize technological literacy.  
 
 * We must further develop research and development centers prioritizing agricultural methodologies which are safeguarded against immediate threats, as well as provide groundwork for future improvements.  
 
 ## Funding/Grants  
+
+![Vermont Department of Agriculture](VT_ag.jpg)    
+
 
 * Local and State governments should discourage traditional farms in Vermont (Especially dairy farms), and redirect funds to new, efficient agricultural methods that can provide for the population and sustain robust economic activity.  
 
