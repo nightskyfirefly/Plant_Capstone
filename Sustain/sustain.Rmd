@@ -55,6 +55,27 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](Identifying-drivers-of-forest-loss.png)      
 
+* Deforestation is worse than forest degradation  
+
+* Deforestation is the complete removal of trees for agricultural purposes, mining, and urbanization like towns, cities, etc.  
+
+* Just over one-quarter of global forest loss is driven by deforestation. The remaining 73% came from the three drivers of forest degradation: logging of forestry products from plantations (26%); shifting, local agriculture (24%); and wildfires (23%)  
+
+
+
+### Deforestation Areas  
+
+![](Forest-loss-by-driver.png)   
+
+
+* 95% of the world’s deforestation occurs in the tropics  
+
+* The world loses almost six million hectares of forest each year to deforestation.  
+
+* Deforestation tends to occur on forests that have been around for centuries, if not millennia. Cutting them down disrupts or destroys established, species-rich ecosystems  
+
+* Agriculture is responsible for 60-80% of deforestation. Habitat loss is the leading driver of biodiversity loss. It is in our best interest to bring deforestation to an end.  
+
 
 
 
