@@ -1,11 +1,11 @@
 # site settings
 title: rundowntown
 subtitle: 123
-email: daniel.forcade@uvm.edu
-description: rundowntown | website
-baseurl: "/ForcadeBio381"
+email: mia.murphy@uvm.edu
+description: nightskyfirefly | website
+baseurl: "/Plant_Capstone"
 url: # the base hostname & protocol for your site
-author: daniel forcade
+author: daniel forcade + mia murphy
 street_address:
 city:
 state: VT
@@ -21,7 +21,7 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: github.com/rundowntown
+gitlab_url: github.com/nightskyfirefly
 googleplus_url:
 instagram_url:
 linkedin_url: 
